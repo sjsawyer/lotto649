@@ -144,3 +144,7 @@ def lotto649():
         for k,v in outcomesbonus.items())
     print(result + "\n" + resultwithbonus)
     print("Profit: {0}".format(profit))
+
+
+if __name__ == '__main__':
+    lotto649()
